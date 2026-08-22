@@ -8,10 +8,19 @@ I am interested in creating open-source projects and exploring technology beyond
 
 My goal is to build technology that people don't just use, but <strong> experience</strong>. I believe the future lies in interactive technology and in the possibilities that emerge when software engineering meets creativity. </p>
 
-<h3 align="center">Tech Stack</h3>
+<br> <br>
+
+<h3 align="center">Web Technologies</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css" alt="My Skills">
+</p>
+
+<h3 align="center"> Programming Languages </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs" alt="Programming Languages">
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css," alt="My Skills">
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PicklesCoder&langs_count=5&theme=chartreuse-dark" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=PicklesCoder&hide_rank=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats">
 </p>
