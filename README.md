@@ -21,6 +21,7 @@ My goal is to build technology that people don't just use, but <strong> experien
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PicklesCoder&langs_count=5&theme=chartreuse-dark" alt="Top Languages">
-  <img src="https://github-stats-extended.vercel.app/api?username=PicklesCoder&hide_rank=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PicklesCoder&langs_count=4&theme=highcontrast" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=PicklesCoder&hide_rank=true&include_all_commits=true&theme=highcontrast" alt="GitHub Stats">
 </p>
+
