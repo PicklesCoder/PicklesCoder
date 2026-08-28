@@ -10,15 +10,32 @@ My goal is to build technology that people don't just use, but <strong> experien
 
 <br> <br>
 
-<h3 align="center">Web Technologies</h3>
+<div align="center">
+  
+  ---
+  ### Web Technologies
+  
+  </div>
+
+  
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css" alt="My Skills">
 </p>
 
-<h3 align="center"> Programming Languages </h3>
+<div align="center">
+  
+  ---
+  ### Programming Languages 
+  
+  </div>
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cs" alt="Programming Languages">
 </p>
+
+---
+###
+
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PicklesCoder&langs_count=4&theme=highcontrast" alt="Top Languages">
