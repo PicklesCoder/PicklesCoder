@@ -1,5 +1,5 @@
 <h1 align="center"> Hey! I'm Celina, also known as Pickles👋</h1>
-<h3 align="center">💻 I am a Software Engineering & Video Games + Immersive Technologies Student 🎮 </h3>
+<h3 align="center">💻 Game Development & Software Engineering Student 🎮 </h3>
 <br> 
 <br> 
 <p> I am passionate about building software that is not only functional, but also fun, meaningful, and exciting to experience. I love exploring the intersection between code, games, interaction, and technology. From software and web experiences to games and immersive worlds.
